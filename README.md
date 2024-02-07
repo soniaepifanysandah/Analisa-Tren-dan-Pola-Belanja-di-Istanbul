@@ -173,7 +173,7 @@ Secara keseluruhan, transaksi dari tahun 2021 ke 2022 terjadi peningkatan.
 [Lihat Disini](https://lookerstudio.google.com/s/sc9f69chkRo)
 
 <p align="center">
-   <img src="picture/Picture13.png" width = 450 px>
+   <img src="picture/Picture13.png" width = 1000 px>
 </p>
 
 
